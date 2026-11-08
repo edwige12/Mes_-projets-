@@ -41,3 +41,4 @@ for composant in inventaire:
       print("Prix :", composant["prix"], "FCFA")
 if trouve == False:
   print("Composant introuvable")
+  #moi meme
